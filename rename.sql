@@ -1,9 +1,9 @@
 -- To rename a table
-rename table users to programmers;
-select * from programmers;
+RENAME TABLE users TO customers;
+SELECT * FROM programmers;
 
 -- select * from users; -> don't exist anymore
 
 -- to rename it back
-rename table programmers to users;
-select * from users;
+RENAME TABLE customers TO users;
+SELECT * FROM users;
