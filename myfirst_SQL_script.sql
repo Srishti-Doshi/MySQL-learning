@@ -1,3 +1,4 @@
+--This is a single line comment
 create database startersql;
 use startersql;
 create table users (
