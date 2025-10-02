@@ -1,4 +1,4 @@
-# MySQL-mastery
+# MySQL-learning
 
 ![GitHub Repo Size](https://img.shields.io/github/repo-size/Srishti-Doshi/MySQL-mastery) 
 
