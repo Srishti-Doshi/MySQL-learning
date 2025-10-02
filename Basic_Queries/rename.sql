@@ -1,6 +1,6 @@
 -- To rename a table
 RENAME TABLE users TO customers;
-SELECT * FROM programmers;
+SELECT * FROM customers;
 
 -- select * from users; -> don't exist anymore
 
